@@ -7,6 +7,7 @@ nimble. It's really waiting on some fixes to Nim's experimental viewtypes to
 cut down on copies of the MaxMind database content:
 
 https://github.com/nim-lang/Nim/issues/15778 (showstopper)
+
 https://github.com/nim-lang/Nim/issues/15746
 
 ## notes
